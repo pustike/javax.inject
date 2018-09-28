@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"javax.inject","c":"Provider","l":"get()"},{"p":"javax.inject","c":"Named","l":"value()"}]

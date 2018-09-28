@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"javax.inject","l":"Inject"},{"p":"javax.inject","l":"Named"},{"p":"javax.inject","l":"Provider"},{"p":"javax.inject","l":"Qualifier"},{"p":"javax.inject","l":"Scope"},{"p":"javax.inject","l":"Singleton"}]
